@@ -73,7 +73,7 @@ class AbstractTest{
 		System.out.println(a.getName()+"---"+a.getAge());
 		a1.eat();
 
-		System.out.println("测试冲突");
+		System.out.println("测试冲突冲突冲突");
 		
 
 	}
