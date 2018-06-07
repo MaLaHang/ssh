@@ -72,7 +72,9 @@ class AbstractTest{
 		a.setAge(6);
 		System.out.println(a.getName()+"---"+a.getAge());
 		a1.eat();
-		System.out.println("测试push");
-		System.out.("下一个版本");
+
+		System.out.println("测试冲突");
+		
+
 	}
 }
