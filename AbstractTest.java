@@ -72,6 +72,6 @@ class AbstractTest{
 		a.setAge(6);
 		System.out.println(a.getName()+"---"+a.getAge());
 		a1.eat();
-
+		System.out.println("测试pull")
 	}
 }
